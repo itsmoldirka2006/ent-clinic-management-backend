@@ -1,1 +1,0 @@
-# ent-clinic-management-backend
